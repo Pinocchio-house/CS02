@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@types/node": "^20.6.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2",
+    "uuid": "^9.0.1"
+  },
+  "name": "cs02",
+  "description": "��#\u0000 \u0000C\u0000S\u00000\u00002\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/uuid": "^9.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "popopo": "node ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pinocchio-house/CS02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pinocchio-house/CS02/issues"
+  },
+  "homepage": "https://github.com/Pinocchio-house/CS02#readme"
+}
