@@ -13,8 +13,7 @@
     "@types/uuid": "^9.0.4"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "popopo": "node ts-node index.ts"
+    "start": "ts-node index.ts"
   },
   "repository": {
     "type": "git",
